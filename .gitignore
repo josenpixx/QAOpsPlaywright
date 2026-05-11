@@ -1,8 +1,22 @@
+# Dependencies
+node_modules/
 
 # Playwright
-node_modules/
 /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Allure
+allure-results/
+allure-report/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+npm-debug.log*
