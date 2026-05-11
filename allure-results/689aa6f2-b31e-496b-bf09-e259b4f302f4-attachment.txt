@@ -1,0 +1,5 @@
+Created event: "Test Event 1778319025290"
+Seats before booking: 50
+Booking confirmed. Ref: T-HJVRN3
+Booking card found in My Bookings for ref: T-HJVRN3
+Seats after booking: 49

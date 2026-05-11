@@ -1,0 +1,5 @@
+Created event: "Test Event 1778321648143"
+Seats before booking: 50
+Booking confirmed. Ref: T-NY1ZPP
+Booking card found in My Bookings for ref: T-NY1ZPP
+Seats after booking: 49
