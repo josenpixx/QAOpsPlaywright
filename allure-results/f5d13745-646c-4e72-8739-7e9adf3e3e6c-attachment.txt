@@ -1,5 +1,0 @@
-Created event: "Test Event 1778317162543"
-Seats before booking: 50
-Booking confirmed. Ref: T-2OJC3K
-Booking card found in My Bookings for ref: T-2OJC3K
-Seats after booking: 49
