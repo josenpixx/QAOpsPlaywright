@@ -5,7 +5,7 @@ console.log(message1);
 let age1 = 20;
 console.log(age1);
 let isActive = false;
-console.log(isActive);
+console.log(isActiverte);
 let numberArray = [1, 2, 3, 4, 5];
 console.log(numberArray);
 let data = "this can be any type";
